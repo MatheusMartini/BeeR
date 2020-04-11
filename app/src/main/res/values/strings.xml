@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">BeeR</string>
+
+    <string name="preco3">Preço 3</string>
+    <string name="preco2">Preço 2</string>
+    <string name="preco1">Preço 1</string>
+
+    <string name="campo">Digite a cerveja</string>
+
+    <string name="ml">Ml</string>
+
+    <string name="textView_final">Preço por Litro</string>
+
+    <string name="calcular">Caucular</string>
+
+    <string name="description_finalPrice">Mostra o preço do mililitro depois que o botão Calcular é pressionado</string>
+    <string name="description_button">Calcular o preço do mililitro</string>
+    <string name="error_priceMissing">Ei! Parece que você deixou um dos campos de preços em branco.</string>
+    <string name="error_mlMissing">Ei! Parece que você deixou um dos campos de mililitros vazio.</string>
+</resources>
